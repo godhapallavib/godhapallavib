@@ -38,7 +38,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/godhapallavibhogadi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://resume-bhogadi.s3.us-east-2.amazonaws.com/GodhaPallaviBhogadi_Resume.pdf"></a>
+  <a href="https://resume-bhogadi.s3.us-east-2.amazonaws.com/GodhaPallaviBhogadi_Resume.pdf"><img src="https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
+  <a href="https://godhabhogadi.com/"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
 </p>
 
 ---
