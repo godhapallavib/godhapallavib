@@ -25,6 +25,14 @@
 
 ---
 
+## 🏆 Research & Publications
+
+- **GPU Security Research** | Developing an **IFC-based type system** for secure parallel computing.
+- 📄 **<a href="https://resume-bhogadi.s3.us-east-2.amazonaws.com/LSTM_Paper.pdf">Publication:</a>** *Automatic Extraction of Key Information from Text Documents using Named Entity Recognition (NER)*
+  - Presented at ICAITPR 2022, focusing on **text summarization and NLP applications**.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -42,4 +50,3 @@
   <a href="https://godhabhogadi.com/"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
 </p>
 
----
