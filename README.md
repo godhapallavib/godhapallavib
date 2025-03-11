@@ -5,14 +5,40 @@
 
 ## 🚀 About Me
 
-🎯 **Software Developer | Master of Computer Science at Illinois Institute of Technology, Chicago**  
-🔍 Actively **seeking internship & full-time opportunities** in **Software Development, SRE, or Testing**  
-💻 **Software Engineering Experience** at Sureify, working on **backend development, API integrations, and performance optimizations**.  
-🛠️ **Full-Stack Projects** using **React.js, Node.js, PHP, and TypeScript**  
-📱 **Mobile App Development** using **Flutter & Dart**  
+🎯 **Software Developer | Master of Computer Science at Illinois Institute of Technology, Chicago**.    
+🔍 Actively **seeking internship / full-time opportunities** in **Software Development**.  
+💻 **Software Engineer II** at Sureify, worked on **backend development, API integrations, and performance optimizations**.  
+🛠️ **Full-Stack Projects** using **React.js, Node.js, PHP, and TypeScript**.    
+📱 **Mobile App Development** using **Flutter & Dart**.    
 🔬 **Research in GPU Security**, working on **secure programming models** to prevent information leaks in parallel computing.  
-🌎 Currently based in **Chicago, IL**  
+🌎 Currently based in **Chicago, IL**.    
 📬 Reach me at **[godhapallavib@gmail.com](mailto:godhapallavib@gmail.com)**  
 
 
+---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,r,react,php,go,nodejs,ocaml,html,css,spring,mysql,aws,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=godhapallavib&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godhapallavib&layout=compact&theme=radical" height="180" />
+</p>
+
+---
+
+## 🌟 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/godhapallavibhogadi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://resume-bhogadi.s3.us-east-2.amazonaws.com/GodhaPallaviBhogadi_Resume.pdf"></a>
+</p>
+
+---
