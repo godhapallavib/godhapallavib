@@ -21,10 +21,9 @@ I’m a **Ph.D. student in Computer Science at Illinois Institute of Technology 
 
 ## 🔎 Research Focus
 
-- **GPU Security & Side Channels:** Cost models for bank conflicts; **cost-aware IFC** for CUDA kernels  
-- **Program Logics:** **Relational Hoare Logic** for relational cost bounds  
-- **Proof Engineering:** Mechanized metatheory in **Rocq/Coq**; type systems & semantics  
-- **PL & FM:** Type theory, operational semantics, verified tooling
+Programming Lanuages and Formal Methods; 
+Type Theory; 
+Progam Logics.
 
 ---
 
@@ -51,7 +50,7 @@ I’m a **Ph.D. student in Computer Science at Illinois Institute of Technology 
 
 ## 🗣️ Presentations
 
-- **Information Flow Control For GPU Parallel Computing** — *MWPLS 2024 Poster*, University of Chicago  
+- **Information Flow Control For GPU Parallel Computing** — *MWPLS 2024 Poster*, University of Chicago (Nov 2024)
 - **Information Flow Control For GPU Parallel Computing** — *Research Day Poster*, Illinois Tech (Aug 2024)
 
 ---
