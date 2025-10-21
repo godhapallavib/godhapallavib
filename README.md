@@ -70,7 +70,7 @@ Progam Logics.
 </p>
 
 > Focused tools: **Rocq/Coq**, **OCaml**, **Python**, **Git**, **LaTeX**, **Docker**, **AWS/Azure**  
-> (Plus: type theory, program logics, operational semantics, verification tooling)
+> (Plus: Type Theory, Program Logics, Operational Semantics, Verification)
 
 ---
 
